@@ -22,14 +22,13 @@ Neste módulo, espera-se que os alunos adquiram uma base sólida de lógica de p
 - Entendimento do funcionamento da JDK, realização da configuração do ambiente de desenvolvimento e construção do primeiro programa.
 - Entendimento do conceito de linguagem fortemente tipada.
 - Apropriação das técnicas e aplicação de convenções na criação de variáveis, constantes e enumeradores.
-- ... (demais objetivos)
+
 
 ### Conteúdos
 
 - Paradigmas de Programação e breve conceituação de POO.
 - Breve história do Java.
 - JDK, JRE e JVM.
-- ... (demais conteúdos)
 
 ### Bibliografia
 
